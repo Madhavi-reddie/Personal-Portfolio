@@ -185,8 +185,8 @@ nav{
     border-radius: 5px;
 }
 .featured-name{
-    font-size: 50px;
-    font-weight: 800;
+    font-size: 40px;
+    font-weight: 600;
     color: black;
     margin-block: 20px;
 }
@@ -195,7 +195,7 @@ nav{
     color:#C738BD;
 }
 .featured-text-info{
-    font-size: 23px;
+    font-size: 20px;
     margin-bottom: 30px;
     color: rgb(21, 13, 13);
 }
