@@ -770,6 +770,12 @@ footer{
     .internship-card {
         flex: 0 0 280px; /* Reduce the card width slightly */
     }
+    .skills-list span{
+    font-size: 15px;
+    background: #7469B6;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
 }
 
 /* ----- MEDIA QUERY == 900px / RESPONSIVE ----- */
