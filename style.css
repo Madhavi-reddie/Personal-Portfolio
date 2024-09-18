@@ -776,7 +776,7 @@ footer{
     color: white;
     padding: 5px 10px;
     border-radius: 4px;
-}
+}}
 
 /* ----- MEDIA QUERY == 900px / RESPONSIVE ----- */
 @media only screen and (max-width: 900px) {
@@ -881,7 +881,13 @@ footer{
         font-size: 1.3rem; /* Reduce the heading size */
     }
     
-    
+    .skills-list span{
+    font-size: 15px;
+    background: #7469B6;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
 
 }
 
@@ -942,4 +948,11 @@ footer{
     .internship-card p {
         font-size: 0.9rem; /* Adjust paragraph size */
     }
+    .skills-list span{
+    font-size: 15px;
+    background: #7469B6;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
 }
