@@ -225,17 +225,17 @@ nav{
 }
 .social_icons{
     display: flex;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-top: 5em;
-    gap: 30px;
+    gap: 20px;
 
 }
 .icon{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
     cursor: pointer;
@@ -254,14 +254,14 @@ nav{
 }
 .image{
     margin: auto 0;
-    width: 480px;  /* Adjust the size as needed */
-    height: 480px; /* Adjust the size as needed */
+    width: 450px;  /* Adjust the size as needed */
+    height: 450px; /* Adjust the size as needed */
     animation: imgFloat 2s ease-in-out infinite;
     
 }
 .image img{
-    width: 480px;  /* Adjust the size as needed */
-    height: 480px; /* Adjust the size as needed */
+    width: 450px;  /* Adjust the size as needed */
+    height: 450px; /* Adjust the size as needed */
     object-fit: contain;
 }
 @keyframes imgFloat {
@@ -273,7 +273,7 @@ nav{
 .scroll-btn{
    position: absolute;
    bottom: 0;
-   font-size: 3rem;
+   font-size: 2rem;
    right: 0%;
    translate: -50%;
    display:grid;
@@ -289,7 +289,7 @@ nav{
    box-shadow: 3px 2px 5px 0 rgba(19, 14, 14, 0.25);
 }
 .scroll-btn i{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 /* ----- MAIN BOX ----- */
