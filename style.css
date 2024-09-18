@@ -317,7 +317,7 @@ nav{
     color: black;
     margin-bottom: 10px;
     margin-top: 10px;
-    font-size: 1.5em;
+    font-size: 2.0em;
 }
 .top-header span{
     color: #f3eded;
@@ -587,7 +587,7 @@ h3{
     transform: rotateY(0deg);
 }
 h2 {
-    font-size: 1.8rem;
+    font-size: 1.0rem;
     margin-bottom: 1rem;
 }
 .project-link {
